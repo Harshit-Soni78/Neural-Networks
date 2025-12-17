@@ -27,6 +27,9 @@ _**1.1 Biological Neuron Model**_
 - Signal transmission mechanism
 - Comparison with artificial neuron
 - Motivation for ANN
+- **Lec 2.1 Motivation from Biological Neurons** : <https://youtu.be/qQmMp8fL82w?si=CZJWn3-Cq5T6bxCM>
+- **Lec 2.2 McCulloch Pitts Neuron, Thresholding Logic** : <https://youtu.be/6XhSJbfT1pk?si=Ezj4KqloB3-LUMvj>
+- **Lec 2.3 Perceptrons** : <https://youtu.be/XKnBn1XZpQI?si=OajMmvRY5pl-kF2Z>
 
 _**1.2 Artificial Neuron (McCulloch–Pitts Model)**_
 
@@ -34,6 +37,7 @@ _**1.2 Artificial Neuron (McCulloch–Pitts Model)**_
 - Weighted sum and bias
 - Threshold logic unit (TLU)
 - Input–output relationship
+- **MCP(McCulloch Pitts Neuron Model)** : <https://youtu.be/5PWHcSRn2W4?si=7s03AU5qbSHZt5wY>
 
 _**1.3 Characteristics of Artificial Neural Networks**_
 
@@ -43,6 +47,7 @@ _**1.3 Characteristics of Artificial Neural Networks**_
 - Fault tolerance
 - Parallelism and distributed processing
 - Comparison with conventional computing
+- **Characteristics of Artificial Neural Network and Structure of Single Layer Neural Network**: <https://youtu.be/oRZxWHAbIXI?si=lY3xkF8BdFx9V0IN>
 
 _**1.4 Types of Activation Functions**_
 
@@ -53,12 +58,17 @@ _**1.4 Types of Activation Functions**_
 - ReLU and variants
 - Mathematical properties and graphs
 - Role in learning and convergence
+- **What is Activation function in Neural Network ? Types of Activation Function in Neural Network** : <https://www.youtube.com/watch?v=Y9qdKsOHRjA>
+
+- **Artificial Neural Network** : <https://youtube.com/playlist?list=PLxCzCOWd7aiHQ9Qyo70JCTkTxczPnVC6s&si=7l2psXZzFTzwRYhd>
 
 📌 _Exam Focus_: Definitions, diagrams, activation function graphs, small numericals.
 
 _**Links**_
 
 - **ChatGPT:** <https://chatgpt.com/share/6942ddcc-29c8-8012-ba96-cd990d984343>
+- **Youtube** :
+  - **Deep Learning(CS7015): Lec 2.1 Motivation from Biological Neurons**: <https://youtu.be/qQmMp8fL82w?si=KKbipl2kouj5WDKn>
 
 ---
 
@@ -108,6 +118,7 @@ _**2.7 Hopfield Network**_
 - Energy function
 - Stability concept
 - Applications (associative memory)
+- **Video Link:** <https://youtu.be/ssM6SsdJj8M?si=LKYgZtdlS4nhzPcV>
 
 _**2.8 Hamming Network**_
 
