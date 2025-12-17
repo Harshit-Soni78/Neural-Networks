@@ -132,3 +132,52 @@ _**Links**_
 - **ChatGPT:** <https://chatgpt.com/share/6942faec-faec-8012-b126-6a9509e75c8d>
 
 ---
+
+### UNIT 3: LEARNING MECHANISMS IN ANNs
+
+_**3.1 Learning in Neural Networks**_
+
+- Definition of learning
+- Error surface concept
+- Cost / loss function
+
+_**3.2 Supervised Learning**_
+
+- Training data and target outputs
+- Error correction learning
+- Examples: Perceptron, MLP
+
+_**3.3 Backpropagation Algorithm**_
+
+- Forward pass and backward pass
+- Gradient descent
+- Chain rule derivation
+- Weight update equations
+- Numerical example (mandatory for exams)
+- Vanishing gradient (intro level)
+
+_**3.4 Unsupervised Learning**_
+
+- Concept and motivation
+- Clustering vs classification
+- Hebbian learning rule
+
+_**3.5 Self-Organization**_
+
+- Competitive learning
+- Feature extraction
+- Kohonen SOM (connection with Unit 2)
+
+_**3.6 Counter Propagation Network**_
+
+- Architecture (Kohonen + Grossberg layers)
+- Learning phases
+- Applications
+
+📌 _Exam Focus_: Backprop derivation, numericals, learning rule comparisons.
+
+_**Links**_
+
+- **ChatGPT:** <https://chatgpt.com/share/6942fb08-3994-8012-99fb-21ef5625fcb3>
+
+---
