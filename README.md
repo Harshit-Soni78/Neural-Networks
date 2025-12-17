@@ -61,3 +61,74 @@ _**Links**_
 - **ChatGPT:** <https://chatgpt.com/share/6942ddcc-29c8-8012-ba96-cd990d984343>
 
 ---
+
+### UNIT 2: PERCEPTRONS & ANN PARADIGMS
+
+_**2.1 Perceptron Model**_
+
+- Single neuron perceptron
+- Mathematical representation
+- Geometry of decision boundary
+
+_**2.2 Linear Separability**_
+
+- Concept of linearly separable data
+- XOR problem
+- Geometric interpretation
+- Proof of limitation
+
+_**2.3 Single-Layer Perceptron**_
+
+- Architecture
+- Capabilities and constraints
+- Classification examples
+
+_**2.4 Multi-Layer Perceptron (MLP)**_
+
+- Architecture overview
+- Role of hidden layers
+- Why multilayer networks solve XOR
+- Comparison with single-layer perceptron
+
+_**2.5 Perceptron Learning Algorithm**_
+
+- Learning rule
+- Weight update equation
+- Convergence theorem (statement)
+- Step-by-step numerical example
+
+_**2.6 ANN Paradigms (Associative & Competitive Networks)**_
+
+- Overview of ANN paradigms
+- Supervised vs unsupervised paradigms
+
+_**2.7 Hopfield Network**_
+
+- Architecture
+- Energy function
+- Stability concept
+- Applications (associative memory)
+
+_**2.8 Hamming Network**_
+
+- Architecture
+- Pattern classification principle
+
+_**2.9 Grossberg / Carpenter Network (ART)**_
+
+- Adaptive Resonance Theory (ART)
+- Stability–plasticity dilemma
+
+_**2.10 Kohonen Self-Organizing Map (SOM)**_
+
+- Competitive learning
+- Neighborhood function
+- Feature mapping
+
+📌 _Exam Focus_: XOR proof, learning algorithm numericals, network diagrams.
+
+_**Links**_
+
+- **ChatGPT:** <https://chatgpt.com/share/6942faec-faec-8012-b126-6a9509e75c8d>
+
+---
