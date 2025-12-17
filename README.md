@@ -181,3 +181,43 @@ _**Links**_
 - **ChatGPT:** <https://chatgpt.com/share/6942fb08-3994-8012-99fb-21ef5625fcb3>
 
 ---
+
+### UNIT 4: HOPFIELD NETWORKS & APPLICATIONS
+
+_**4.1 Hopfield Network Configuration**_
+
+- Fully connected recurrent network
+- Symmetric weight matrix
+- Binary vs bipolar representation
+
+_**4.2 Energy Function in Hopfield Networks**_
+
+- Lyapunov function
+- Proof of convergence to stable state
+- Mathematical interpretation
+
+_**4.3 Learning in Hopfield Networks**_
+
+- Hebbian learning
+- Weight calculation
+- Storage capacity
+
+_**4.4 Hardware Implementation of ANN**_
+
+- Analog vs digital implementation
+- VLSI perspective (introductory)
+- Neuromorphic concepts (basic)
+
+_**4.5 Emerging Applications of ANNs**_
+
+- Pattern recognition
+- Image and speech processing
+- Medical diagnosis
+- Control systems
+- Forecasting and optimization
+
+📌 _Exam Focus_: Energy function proof, weight matrix numericals, applications.
+
+_**Links**_
+
+- **ChatGPT:** <https://chatgpt.com/share/6942fb20-fb08-8012-82eb-62d5ce395853>
