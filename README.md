@@ -79,6 +79,7 @@ _**2.1 Perceptron Model**_
 - Single neuron perceptron
 - Mathematical representation
 - Geometry of decision boundary
+- **4.3 Perceptron in ML | Implement AND OR function Training Rule using Perceptron Networks** : <https://www.youtube.com/watch?v=SwZevzz7ru0>
 
 _**2.2 Linear Separability**_
 
@@ -86,12 +87,15 @@ _**2.2 Linear Separability**_
 - XOR problem
 - Geometric interpretation
 - Proof of limitation
+- **L92: Linearly Separable Patterns in Context of Linear Separability | AND, OR, XOR Problem** : <https://www.youtube.com/watch?v=sgaGp6ENSa0>
+- **Lec 2.7 Linearly Separable Boolean Functions** : <https://youtu.be/AjUgxQNZhck?si=l_rXWsDbdllMlb5Q>
 
 _**2.3 Single-Layer Perceptron**_
 
 - Architecture
 - Capabilities and constraints
 - Classification examples
+- **Lec-48: Understanding Single Layer Perceptron (SLP) with Example** : <https://youtu.be/rvxd13IHx1Y?si=UPkMAaMgdGhfvRmW>
 
 _**2.4 Multi-Layer Perceptron (MLP)**_
 
@@ -99,6 +103,7 @@ _**2.4 Multi-Layer Perceptron (MLP)**_
 - Role of hidden layers
 - Why multilayer networks solve XOR
 - Comparison with single-layer perceptron
+- **Lec-49: What is Multilayer Perceptron (MLP)?** : <https://youtu.be/BPOl4_vN3IM?si=hDF-NioZm1in2bo>
 
 _**2.5 Perceptron Learning Algorithm**_
 
@@ -106,11 +111,14 @@ _**2.5 Perceptron Learning Algorithm**_
 - Weight update equation
 - Convergence theorem (statement)
 - Step-by-step numerical example
+- **Lec 2.5 Perceptron Learning Algorithm** : <https://youtu.be/VRcixOuG-TU?si=cuBTww3iM4FzpsN5>
+- **Lec 2.6 Proof of Convergence of Perceptron Learning Algorithm** : <https://youtu.be/vAOI9kTDVoo?si=iQDBOXe68Qa8fzyA>
 
 _**2.6 ANN Paradigms (Associative & Competitive Networks)**_
 
 - Overview of ANN paradigms
 - Supervised vs unsupervised paradigms
+- **Network Architecture and Learning Paradigms of ANN** : <https://www.youtube.com/watch?v=AcoRUO3zI4o>
 
 _**2.7 Hopfield Network**_
 
@@ -118,12 +126,13 @@ _**2.7 Hopfield Network**_
 - Energy function
 - Stability concept
 - Applications (associative memory)
-- **Video Link:** <https://youtu.be/ssM6SsdJj8M?si=LKYgZtdlS4nhzPcV>
+- **Hopfield Network Algorithm with Solved Example:** <https://youtu.be/ssM6SsdJj8M?si=LKYgZtdlS4nhzPcV>
 
 _**2.8 Hamming Network**_
 
 - Architecture
 - Pattern classification principle
+- **Hamming Network Solved Example** : <https://www.youtube.com/watch?v=Mlz5-lHl_1A>
 
 _**2.9 Grossberg / Carpenter Network (ART)**_
 
@@ -135,6 +144,7 @@ _**2.10 Kohonen Self-Organizing Map (SOM)**_
 - Competitive learning
 - Neighborhood function
 - Feature mapping
+- **4.6 Self Organizing Maps (SOM) with Example** : <https://www.youtube.com/watch?v=pE-PRqaUCLM>
 
 📌 _Exam Focus_: XOR proof, learning algorithm numericals, network diagrams.
 
